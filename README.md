@@ -5,4 +5,4 @@
      * iPromise.resolve(data); ------------------------- data:    任何数据
      * iPromise.compile(fn, context, bool); ------------ fn:      函数, 
                                                          context: 上下文,
-                                                         bool:     应用 error-first 模式
+                                                         bool:    应用 error-first 模式
