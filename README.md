@@ -1,4 +1,4 @@
-# iPromise 常用静态方法
+## iPromise 常用静态方法
      * iPromise.all(it); ------------------------------- it:      可迭代对象
      * iPromise.race(it); ------------------------------ it:      可迭代对象
      * iPromise.reject(err); --------------------------- err:     错误信息
