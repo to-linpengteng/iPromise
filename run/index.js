@@ -1,16 +1,4 @@
 
-
-    /** iPromise 常用静态方法
-     *   iPromise.all(it); ------------------------------- it:       可迭代对象
-     *   iPromise.race(it); ------------------------------ it:       可迭代对象
-     *   iPromise.reject(err); --------------------------- err:      错误信息
-     *   iPromise.resolve(data); ------------------------- data:     任何数据
-     *   iPromise.compile(fn, context, bool); ------------ fn:       函数,
-     *                                                     context:  上下文,
-     *                                                     bool:     应用 error-first 模式
-     */
-
-
     /** 一些任务，分配给A、B、C
      *   A: 整理A数据，并从小到大进行排序 --------- 所需时间估计 1000ms ~ 2000ms
      *   B: 整理B数据，并从小到大进行排序 --------- 所需时间估计 1000ms ~ 2000ms
