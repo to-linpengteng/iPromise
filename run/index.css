@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+    padding: 50px;
+    color: #666666;
+    font-size: 36px;
+    line-height: 50px;
+    font-family: "Microsoft YaHei UI";
+}
